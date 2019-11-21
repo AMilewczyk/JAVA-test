@@ -9,6 +9,6 @@ public class zad1 {
         // 60
         int d = a-- + ++b;
         System.out.println(d);
-        // 16
+        // 16nnn
     }
 }
